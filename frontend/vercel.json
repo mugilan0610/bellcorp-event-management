@@ -1,0 +1,12 @@
+﻿{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "installCommand": "npm install",
+  "devCommand": "npm start",
+  "framework": "create-react-app",
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/static/(.*)", "dest": "/static/\" },
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}

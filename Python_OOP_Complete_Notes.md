@@ -1,5 +1,5 @@
 # Python OOP — Complete Senior Developer Notes
-### (Spoon-feed style: What → Why → Where → How → Code → Line-by-line Execution → Output → Pros/Cons → Memory Trick)
+### VARSHINI 🧑‍💻
 
 ---
 
